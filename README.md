@@ -38,8 +38,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-#Projects
+# Projects
 
 After I figure out what I'm doing, I will add 5-10 projects to my page for the purpose of showing recruiters my skills.
 
-##Project 1
+## Project 1
