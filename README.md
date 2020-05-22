@@ -38,8 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-# Projects
+# Test
 
-After I figure out what I'm doing, I will add 5-10 projects to my page for the purpose of showing recruiters my skills.
-
-## Project 1
+This is a test for me to learn how to make a Github page.
